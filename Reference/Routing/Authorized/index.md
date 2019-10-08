@@ -52,7 +52,7 @@ Defining a route is done with the standard ASP.NET MVC routing practices. In Umb
 
         public void Terminate()
         {
-            throw new NotImplementedException();
+            // Nothing to terminate
         }
     }
 ```
